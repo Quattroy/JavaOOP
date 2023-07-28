@@ -6,6 +6,8 @@ package ProjectOOP.Seminars.Seminar_1;
 // входным параметром (пример: getProduct(String name) выдающий товар по имени, создайте метод
 // возвращающий товар по имени и какому-либо параметру товара getProduct(String name, int volume)
 
+import java.util.List;
+
 public class BottleOfWaterVendingMashine inmplements VendingMashine {
     
     private List<Product> products;
