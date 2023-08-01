@@ -1,6 +1,4 @@
-package ProjectOOP.Seminars.Seminar_3_task_3_4.Comparable;
-
-
+package ProjectOOP.Homework.task_3_1;
 
 import java.util.Iterator;
 import java.util.List;
