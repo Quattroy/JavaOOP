@@ -9,7 +9,7 @@ import java.util.Collections;
 import java.util.Iterator;
 import java.util.List;
 
-public class TeacherGroupService {
+public class TeacherService {
     private TeacherGroup teacherGroup;
     public void createTeacherGroup(String since, List<Teacher> teacherList){
         this.teacherGroup = new TeacherGroup(since, teacherList);
